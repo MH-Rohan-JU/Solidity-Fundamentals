@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.15+commit.e14f2714"
+		"version": "0.8.34+commit.80d5c536"
 	},
 	"language": "Solidity",
 	"output": {
@@ -78,7 +78,7 @@
 		"compilationTarget": {
 			"contracts/TheBlockchainMessenger.sol": "TheBlockchainMessenger"
 		},
-		"evmVersion": "london",
+		"evmVersion": "osaka",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -91,10 +91,10 @@
 	},
 	"sources": {
 		"contracts/TheBlockchainMessenger.sol": {
-			"keccak256": "0x0567097b9c97060aa13d4fd80ab38d0c583d5bd38908d53a97f548841b29a481",
+			"keccak256": "0x54792f277372f80c9ecbb7321305781074281536c4f97670740d6252898c509d",
 			"urls": [
-				"bzz-raw://7320f924396d80ce7f3b1709497b0643596621951731e24b26edc6d014669efc",
-				"dweb:/ipfs/QmXbFP9kCvBs4KEwaj9sMjFoSqda5grKYU561pEJG5n3Jh"
+				"bzz-raw://007e6534652553f190fbba058870ca5439208177544c65eda22d368735393576",
+				"dweb:/ipfs/QmTdqJNGnR4RoYVZLxczxYdUuEVx8dKr5Gv9MR2hyRNmhY"
 			]
 		}
 	},
